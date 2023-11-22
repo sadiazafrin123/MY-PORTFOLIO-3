@@ -46,8 +46,12 @@ padding-left: 65px;
 }
 .third-section{
     color: black;
+    display: flex;
     
 }
 .third-tag{
     font-size: 90px;
+}
+.third-first-div{
+
 }
