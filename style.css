@@ -46,12 +46,29 @@ padding-left: 65px;
 }
 .third-section{
     color: black;
-    display: flex;
-    
 }
 .third-tag{
     font-size: 90px;
 }
-.third-first-div{
+.fourth-section{
+    display: flex;
+}
+.fourth-first-div{
+    border-left: 5px solid mediumvioletred;
+    padding: 10px;
+    box-shadow: 10px 10px 5px gray;
+    margin: 50px;
 
+}
+.fourth-second-div{
+    border-left: 5px solid maroon;
+    padding: 10px;
+    box-shadow: 10px 10px 5px  gray;
+    margin: 50px;
+
+
+
+}
+.last-section{
+    text-align: center;
 }
